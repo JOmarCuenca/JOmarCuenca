@@ -16,6 +16,8 @@
 
 <br />
 
+---
+
 ### Tools & Frameworks:
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -49,6 +51,18 @@
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Dart" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
+
+<br />
+<br />
+<br />
+
+---
+
+### Here are my github stats:
+
+[![JOmarCuenca's GitHub stats](https://github-readme-stats-eosin-tau.vercel.app/api?username=JOmarCuenca&hide=stars&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-eosin-tau.vercel.app/api/top-langs/?username=JOmarCuenca&layout=compact&hide=jupyter+notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
