@@ -1,4 +1,4 @@
-## Hi there, I'm Omar Cuenca 👋
+## Hi there, I'm Omar Cuenca <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" />
 
 ### Currenty I'm a student, entrepreneur and coder for fun!
 
@@ -60,9 +60,9 @@
 
 ### Here are my github stats:
 
-[![JOmarCuenca's GitHub stats](https://github-readme-stats-eosin-tau.vercel.app/api?username=JOmarCuenca&hide=stars&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![JOmarCuenca's GitHub stats](https://github-readme-stats-eosin-tau.vercel.app/api?username=JOmarCuenca&hide=stars&count_private=true&show_icons=true&theme=onedark)](https://github.com/JOmarCuenca/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-eosin-tau.vercel.app/api/top-langs/?username=JOmarCuenca&layout=compact&hide=jupyter+notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eosin-tau.vercel.app/api/top-langs/?username=JOmarCuenca&layout=compact&hide=jupyter+notebook)](https://github.com/JOmarCuenca/github-readme-stats)
 
 
 
