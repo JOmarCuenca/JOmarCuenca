@@ -66,5 +66,5 @@
 
 
 
-[website]: https://omar-cuenca.web.app
+[website]: https://omar-cuenca.com
 [linkedin]: https://www.linkedin.com/in/jesús-omar-cuenca-espino-8b4283192/
