@@ -2,13 +2,11 @@
 
 ## About me
 
-- I'm a **Senior Software Engineer** at **[Luxoft](https://www.luxoft.com/)**
+- I'm a **Senior Software Engineer** at **[PayPal](https://www.paypal.com)**
 
-- My main interest right now is to learn and break into the Machine Learning and Artificial Intelligence field.
+- My main interest right now is Cloud Engineering and ML Engineering.
   
 - I'm co-founder of [**Zendasys**](https://www.zendasys.com) a software company.
-  
-- I worked 2 years as a freelance full-stack web developer with a bunch of experience in backend and frontend.
 
 ---
 
@@ -19,7 +17,7 @@
 
 |   |   |
 |:---:|:---:|
-|  <img  alt="GCP" width="80px" src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/google-cloud/google-cloud.png" /> |  <img  alt="Azure" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" /> |
+|  <img  alt="GCP" width="80px" src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/google-cloud/google-cloud.png" /> |  <img  alt="aws" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" /> |
 
 ### Data Science and Machine Learning
 
